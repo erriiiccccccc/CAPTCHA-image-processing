@@ -3,7 +3,9 @@
 <p align="center">
   <b><small>This repository contains a simple Python script for image processing using the OpenCV library. The script reads an input image, performs Gaussian blurring for noise reduction, applies thresholding to segment the image into black and white regions, and then saves the processed image. The original and processed images are displayed using matplotlib for visualization.<b><small>
 </p>
-    
+
+![Results](https://github.com/erriiiccccccc/CAPTCHA-image-processing/assets/90021527/3343a2b3-0d12-468f-a33e-d8b0639bafac)
+
 ## Prerequisites
 Before running the script, make sure you have the following prerequisites installed:
 
