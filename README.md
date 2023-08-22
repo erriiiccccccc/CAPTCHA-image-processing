@@ -1,6 +1,9 @@
-# Image Processing with OpenCV
-This repository contains a simple Python script for image processing using the OpenCV library. The script reads an input image, performs Gaussian blurring for noise reduction, applies thresholding to segment the image into black and white regions, and then saves the processed image. The original and processed images are displayed using matplotlib for visualization.
+<h1 align="center">✨ Image Processing with OpenCV ✨</h1>
 
+<p align="center">
+  <b><small>This repository contains a simple Python script for image processing using the OpenCV library. The script reads an input image, performs Gaussian blurring for noise reduction, applies thresholding to segment the image into black and white regions, and then saves the processed image. The original and processed images are displayed using matplotlib for visualization.<b><small>
+</p>
+    
 ## Prerequisites
 Before running the script, make sure you have the following prerequisites installed:
 
